@@ -1,0 +1,7 @@
+.board button{
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  margin: 1px;
+  border-radius: 50%;
+}
